@@ -1,9 +1,10 @@
-import Navbar from "@/app/components/Navbar";
+import HeroSection from "@/components/HeroSection";
+import Navbar from "@/components/Navbar";
 
 export default function Home() {
   return (
-    <main className=" relative w-full flex items-center justify-center">
-      <Navbar />
+    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0/02]">
+      <HeroSection />
     </main>
   );
 }
