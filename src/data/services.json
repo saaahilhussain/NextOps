@@ -1,0 +1,84 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "slug": "web-development",
+      "description": "Custom website design and development, from simple landing pages to complex e-commerce platforms.",
+      "isFeatured": true,
+      "image": "/services/web-dev.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Search Engine Optimization (SEO)",
+      "slug": "seo",
+      "description": "Strategies to improve your website's ranking and visibility on search engines like Google.",
+      "isFeatured": false,
+      "image": "/services/seo.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Social Media Marketing",
+      "slug": "social-media",
+      "description": "Comprehensive social media campaigns to increase brand awareness and audience engagement.",
+      "isFeatured": true,
+      "image": "/services/social-media.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Pay-Per-Click (PPC) Advertising",
+      "slug": "ppc-advertising",
+      "description": "Creation and management of targeted ad campaigns on platforms like Google and social media.",
+      "isFeatured": false,
+      "image": "/services/ppc.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Content Creation",
+      "slug": "content-creation",
+      "description": "Professional writing, photography, and video services to build your brand's story.",
+      "isFeatured": false,
+      "image": "/services/content.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Email Marketing",
+      "slug": "email-marketing",
+      "description": "Design and execution of effective email campaigns for lead nurturing and customer retention.",
+      "isFeatured": true,
+      "image": "/services/email-marketing.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Conversion Rate Optimization (CRO)",
+      "slug": "cro",
+      "description": "Analyzing user behavior to improve website conversion rates and generate more leads.",
+      "isFeatured": false,
+      "image": "/services/cro.jpg"
+    },
+    {
+      "id": 8,
+      "title": "E-commerce Solutions",
+      "slug": "e-commerce",
+      "description": "Complete solutions for setting up and marketing online stores, from development to promotion.",
+      "isFeatured": true,
+      "image": "/services/ecommerce.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Branding and Identity",
+      "slug": "branding",
+      "description": "Developing a cohesive brand identity, including logos, style guides, and brand messaging.",
+      "isFeatured": false,
+      "image": "/services/branding.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Marketing Analytics",
+      "slug": "marketing-analytics",
+      "description": "Data analysis and reporting to track performance and optimize marketing strategies.",
+      "isFeatured": true,
+      "image": "/services/analytics.jpg"
+    }
+  ]
+}
